@@ -14,7 +14,7 @@ Open up the console. Type each line of the following code into the interactive e
  my_fav_animal == user_fav_animal
  ```
 
-### In your notebook, answer the following
+### Discuss 
 
 1. What does `5 < 3` evaluate to?  
 2. What is the type of `5 < 3`? What does that stand for?
