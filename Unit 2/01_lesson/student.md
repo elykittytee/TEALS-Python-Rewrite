@@ -9,6 +9,9 @@ Students will be able to...
 * Convert from one data type to another data type
 
 ## Instructions
+1. Do Now
+2. Lesson
+3. Lab
 
 ### 1. Do Now
 
@@ -34,45 +37,49 @@ str(123)
 
 Now explore the next few code snippets:
 
+Try typing the following into the console:
 ```python
     n = int(input())
     9
     type(n)
 ```
 
-Output from Python:
+Expected output from Python:
 ```
     <class 'int'>
 ```
 
-* Because Python 3 is strongly typed, concatenating strings and numbers requires casting.  Demonstrate by typing the following:
+* Because Python 3 is strongly typed, concatenating strings and numbers requires casting.  
 
+Try typing the following into the console:
 ```python
     n = int(input())
     9
     print ("You entered " + n)
 ```
 
-Output from Python:
+Expected output from Python:
 ```
     TypeError: Can't convert 'int' object to str implicitly
 ```
 
-* Cast the integer to a string. Demonstrate by typing the following:
+* Cast the integer to a string.
 
+Try typing the following into the console:
 ```python
     n = int(input())
     9
     print ("You entered " + str(n))
 ```
 
-Output from Python:
+Expected output from Python:
 ```
     You entered 9
 ```
 
 * Take a few minutes to have students write down how they would produce the following output:
 
+Try typing the following into the console:
 ```
     Give me a number you want to multiply by 2: 4
     8
@@ -84,8 +91,12 @@ Output from Python:
 
 #### Swapping Variables
 
-* Go over the method of swapping two variables using Python syntax covered so far, with a third temporary variable.
-  * Python includes a way to swap two variables directly. The syntax for this will be covered in a later unit.
+Imagine you had the following:
+```python
+a = 32
+b = 15
+```
+Think to yourself: *How would you swap the values of these two variables?*
 
 #### Student Sharing
 
@@ -98,9 +109,5 @@ Output from Python:
 ### 3. Lab
 
 * Practice predicting what casting will do to inputs.
-* Create a halving program, and a variant of the same program that converts any fractional output values to whole numbers.
-* 
-
-### 4. Debrief
-
-* Check student progress and completion of the lab, wrap up by taking any final questions.
+* Create a program that halves an inputted value.
+* Modify the same program that converts any fractional output values into whole numbers.
