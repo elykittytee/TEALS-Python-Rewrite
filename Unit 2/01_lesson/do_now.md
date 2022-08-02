@@ -14,7 +14,7 @@
      print(x_stage2 + y_stage2)
 ```
 
-## In your notebook
+## Discuss with a partner or think on your own
 
 ### Answer the following
 
