@@ -1,0 +1,67 @@
+# Lesson Plan 1.04: Variables and User Input
+
+## Learning Objectives
+
+Students will be able to...
+
+* Define and identify: **comments,  storing, mutability, variable assignment, input**.
+* Assign and swap variables.
+* Store user input into a variable.
+
+## Do Now 1.04
+
+### In your Console, type and run the following code
+
+```python
+a = input("What is your name? ")
+# a = "cats and dogs"
+
+print("Hello there, " + a)
+```
+
+#### Discussion
+
+1. What did `input` do?
+2. What did the string between the parentheses do?
+3. What would changing that string do? (it changes the prompt given to the user)
+4. Briefly describe what the `#` does?
+5. Briefly describe what `input` does?
+
+### For Your Notes
+
+* **input**: user data given to the app.
+* **Mutability**: you can change an existing value.
+* In Python, `input` lets a program take input from the console and use it in the code.
+* Do not use other types of data for now. Only strings.
+
+## Practice Input Statements
+* A. Write a small program that asks for 2 inputs and the result will print both user inputs into one statement
+
+* B. Write another program that takes input only
+
+#### Example Program Output
+```
+What is your favorite color? blue
+What is your favorite animal? butterfly
+
+I really like the butterfly, especially when they are colored blue!
+```
+
+Some ideas: 
+* Ask your user what their favorite class and who their favorite teacher are
+* Ask your user to complete a sentence with a noun and adjective
+
+Instructions
+1. Plan your lines of code: How many variables will you need?
+2. How many print statements do you need?
+3. How many lines of code do you think you need?
+
+## Magic Genie Project
+
+* Make sure you  feel comfortable saving things as variables and can print multiple statements to the console.
+* Practice making various types of print statements
+
+## Turn In:
+- [ ]  After completing the **Practice Statements**, move on to the `Magic Genie Project` in Unit 1 on the Teams page.
+- [ ] Submit this assignment
+- [ ] Mark as done on [Google Classroom](http://classroom.google.com)
