@@ -1,0 +1,44 @@
+site_name: Intro to CS with Python
+nav:
+  - Home: index.md
+  - About: about.md
+  - Curriculum Map: c_map.md
+  - Sample Syllabus: syllabus.md
+  - AP CS A:
+    - Similar Letters: apcsa/simletters.md
+    - Nursery Rhyme: apcsa/nurseryrhyme.md
+  - Unit 1: 
+    - Unit 1 Overview: u1/u1l00.md
+    - 1.01 Set Up: u1/u1l01.md
+    - 1.02 Interactive Mode: u1/u1l02.md
+    - 1.03 Script Mode & Variables: u1/u1l03.md
+    - 1.04 Variables & User Input: u1/u1l04.md
+    - 1.05 Debugging: u1/u1l05.md   
+    - 1.06 Unit Project: u1/u1l06.md 
+  - Unit 2: 
+    - Unit 2 Overview: u2l00.md
+    - 2.01-1 Data Types/Casting - Part 1: u2l01-1.md
+    - 2.01-2 Practice: u2l01-2.md
+    - 2.02-1 Boolean Expressions: u2l02-1.md
+    - 2.02-2 Boolean Expressions: u2l02-2.md
+    - 2.03-1 Conditionals: u2l03-1.md
+    - 2.03-2 Conditionals: u2l03-2.md
+    - 2.04 Lists: u2l04-1.md
+    - 2.04 Lists - Game Show: u2l04-2.md
+    - 2.04 Lists - Food Quiz: u2l04-3.md
+    - 2.05 Modifying Lists: u2l05-1.md
+    - 2.05 Tic-Tac-Toe: u2l05-2.md
+    - 2.06 Game Loop: u2l06.md
+    - 2.07 Unit Project: u2l07.md
+    - 2.07 Unit Project - Student Instructions: u2l07-student.md
+    - 2.07 Unit Project - Starter Code: u2l07-start.md
+
+
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_style: Base16/Windows 95
+  hljs_languages:
+    - yaml
+    - rust
